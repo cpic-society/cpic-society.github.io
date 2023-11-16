@@ -47,7 +47,7 @@ google_fonts:
 navigation_pages:
   - posts.md
   - recipes.md
-  - about.md
+  - previous.md
   - cv.md
   - tags.md
   - categories.md

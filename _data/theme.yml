@@ -8,10 +8,10 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
+  # search: "Search"
+  # site_search: "Site Search"
+  # results_found: "Result(s) found"
+  # search_placeholder_text: "Enter your search term..."
   home: "Home"
   newer: "Newer"
   older: "Older"
@@ -49,5 +49,8 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - about.md
-  - cv.md
+  - spirit.md
+  - previous.md
+  - membership.md
+  - board.md
+  - photos.md

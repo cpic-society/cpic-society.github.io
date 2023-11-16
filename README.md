@@ -349,7 +349,7 @@ menu. For more granular control and sorting of these menu links:
 
    ```yaml
    navigation_pages:
-     - about.md
+     - previous.md
      - cv.md
    ```
 
