@@ -3,7 +3,7 @@ title: "Membership"
 layout: about
 ---
 <span style="font-size:1.05em;">
-If you wish to become a member of the CπC society to support our activities we propose three types of membership:<br>
+If you wish to become a member of the CπC society to support our activities we propose two types of membership:<br>
 <br>
 One year membership (15 €)<br>
 Honorary membership: One year (50 €)<br>
