@@ -12,7 +12,7 @@ layout: columns
     .photo-grid {
       display: grid;
       gap: 10px; /* Gap between grid items */
-      row-gap: 30px; /* Space between rows */
+      row-gap: 50px; /* Space between rows */
       justify-items: center; /* Center items horizontally */
     }
 
@@ -59,7 +59,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic1_large.png', event)">
-        <img class="smallImage" src="assets/images/cpic1_large.png" width="400" />
+        <img class="smallImage" src="assets/images/cpic1_large.png" width="500" />
       </a>
     </div>
   </div>
@@ -72,7 +72,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic2_large.png', event)">
-        <img class="smallImage" src="assets/images/cpic2_large.png" width="400" />
+        <img class="smallImage" src="assets/images/cpic2_large.png" width="500" />
       </a>
     </div>
   </div>
@@ -85,7 +85,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic3_large.png', event)">
-        <img class="smallImage" src="assets/images/cpic3_large.png" width="400" />
+        <img class="smallImage" src="assets/images/cpic3_large.png" width="500" />
       </a>
     </div>
   </div>
@@ -98,7 +98,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic4_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic4_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic4_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -111,7 +111,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic5_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic5_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic5_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -124,7 +124,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic6_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic6_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic6_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -137,7 +137,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic7_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic7_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic7_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -150,7 +150,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic8_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic8_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic8_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -163,7 +163,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic9_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic9_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic9_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -176,7 +176,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic10_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic10_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic10_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -189,7 +189,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic11_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic11_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic11_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -201,7 +201,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic_virtual.png', event)">
-        <img class="smallImage" src="assets/images/cpic_virtual.png" width="400" />
+        <img class="smallImage" src="assets/images/cpic_virtual.png" width="500" />
       </a>
     </div>
   </div>
@@ -214,7 +214,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic12_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic12_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic12_large.jpg" width="500" />
       </a>
     </div>
   </div>
@@ -227,7 +227,7 @@ layout: columns
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic13_large.jpg', event)">
-        <img class="smallImage" src="assets/images/cpic13_large.jpg" width="400" />
+        <img class="smallImage" src="assets/images/cpic13_large.jpg" width="500" />
       </a>
     </div>
   </div>
