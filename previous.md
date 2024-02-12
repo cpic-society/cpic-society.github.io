@@ -236,7 +236,7 @@ layout: columns
       <span class="larger-text">CπC14</span>
       <span class="smaller-text">Donostia, Spain, 08-09.02.2024</span>
       <p>Organizer: Claire Tonnelé<br>Participants: 74</p>
-      <img src="assets/images/logo_cpic14.png" alt="Small Image" width="160">
+      <img src="assets/images/logo_cpic14.png" alt="Small Image" width="170">
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic14_large.JPG', event)">
