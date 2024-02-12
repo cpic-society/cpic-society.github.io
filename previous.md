@@ -239,8 +239,8 @@ layout: columns
       <img src="assets/images/logo_cpic14.png" alt="Small Image" width="170">
     </div>
     <div class="photo-display">
-      <a href="#" onclick="openImagePopup('assets/images/cpic14_large.JPG', event)">
-        <img class="smallImage" src="assets/images/cpic13_large.JPG" width="500" />
+      <a href="#" onclick="openImagePopup('assets/images/cpic14_large.jpg', event)">
+        <img class="smallImage" src="assets/images/cpic13_large.jpg" width="500" />
       </a>
     </div>
   </div>
