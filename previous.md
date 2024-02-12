@@ -231,6 +231,19 @@ layout: columns
       </a>
     </div>
   </div>
+  <div class="photo-item">
+    <div class="photo-info">
+      <span class="larger-text">CπC14</span>
+      <span class="smaller-text">Donostia, Spain, 08-09.02.2024</span>
+      <p>Organizer: Claire Tonnelé<br>Participants: 74</p>
+      <img src="assets/images/logo_cpic14.png" alt="Small Image" width="150">
+    </div>
+    <div class="photo-display">
+      <a href="#" onclick="openImagePopup('assets/images/cpic14_large.JPG', event)">
+        <img class="smallImage" src="assets/images/cpic13_large.JPG" width="500" />
+      </a>
+    </div>
+  </div>
   <!-- Repeat the above structure for other photo items -->
 </div>
 
@@ -242,8 +255,8 @@ layout: columns
 </head>
 <body>
   <hr style="border: none; background-color: #000; height: 1px; margin: 20px 0;">
-Next edition will take place in Donostia, Spain.<br>
-<span style="color:#398188">CπC14</span>  <span style="color:#606060">:: Donostia, Spain, 08-09.02.2024</span>
+Next edition will take place in Siena, Italy.<br>
+<span style="color:#398188">CπC15</span>  <span style="color:#606060">:: Siena, Italy, 2025</span>
 </body>
 
 
