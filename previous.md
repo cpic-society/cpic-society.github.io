@@ -248,7 +248,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC15</span>
       <span class="smaller-text">Siena, Italy, 07-08.02.2025</span>
-      <p>Organizer: Samuele Giannini & Daniele Padula<br>Participants: 74</p>
+      <p>Organizer: Samuele Giannini & Daniele Padula<br>Participants: 98</p>
       <img src="assets/images/logo_cpic15.png" alt="Small Image" width="180">
     </div>
     <div class="photo-display">
