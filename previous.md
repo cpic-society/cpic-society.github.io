@@ -268,8 +268,8 @@ layout: columns
 </head>
 <body>
   <hr style="border: none; background-color: #000; height: 1px; margin: 20px 0;">
-Next edition will take place in Siena, Italy.<br>
-<span style="color:#398188">CπC15</span>  <span style="color:#606060">:: Siena, Italy, 2025</span>
+Next edition will take place in Warsaw, Poland.<br>
+<span style="color:#398188">CπC16</span>  <span style="color:#606060">:: Warsaw, Poland, 2025</span>
 </body>
 
 
