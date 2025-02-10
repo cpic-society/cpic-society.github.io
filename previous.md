@@ -244,6 +244,19 @@ layout: columns
       </a>
     </div>
   </div>
+  <div class="photo-item">
+    <div class="photo-info">
+      <span class="larger-text">CπC15</span>
+      <span class="smaller-text">Siena, Italy, 07-08.02.2025</span>
+      <p>Organizer: Samuele Giannini & Daniele Padula<br>Participants: 74</p>
+      <img src="assets/images/logo_cpic15.png" alt="Small Image" width="180">
+    </div>
+    <div class="photo-display">
+      <a href="#" onclick="openImagePopup('assets/images/cpic15_large.jpg', event)">
+        <img class="smallImage" src="assets/images/cpic15_large.jpg" width="500" />
+      </a>
+    </div>
+  </div>
   <!-- Repeat the above structure for other photo items -->
 </div>
 
