@@ -54,7 +54,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC1</span>
       <span class="smaller-text">Valencia, Spain, 21-23.01.2010</span>
-      <p>Organizer: Begoña Milián-Medina, Johannes Gierschner<br>Participants: 24</p>
+      <p>Organizer: Begoña Milián-Medina & Johannes Gierschner<br>Participants: 24</p>
       <img src="assets/images/logo_cpic1.png" alt="Small Image" width="150">
     </div>
     <div class="photo-display">
@@ -119,7 +119,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC6</span>
       <span class="smaller-text">Olomouc, Czech Republic, 05-07.02.2015</span>
-      <p>Organizer: Michal Otyepka, Karel Berka<br>Participants: 48</p>
+      <p>Organizer: Michal Otyepka & Karel Berka<br>Participants: 48</p>
       <img src="assets/images/logo_cpic6.png" alt="Small Image" width="90">
     </div>
     <div class="photo-display">
@@ -132,7 +132,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC7</span>
       <span class="smaller-text">Bordeaux, France, 12-13.02.2016</span>
-      <p>Organizer: Luca Muccioli, Frédéric Castet, Lionel Truflandier<br>Participants: 56</p>
+      <p>Organizer: Luca Muccioli, Frédéric Castet & Lionel Truflandier<br>Participants: 56</p>
       <img src="assets/images/logo_cpic7.png" alt="Small Image" width="200">
     </div>
     <div class="photo-display">
@@ -145,7 +145,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC8</span>
       <span class="smaller-text">Malaga, Spain, 26-28.01.2017</span>
-      <p>Organizer: M<sup>a</sup> C. Ruiz Delgado, J. C. Sancho Garcia<br>Participants: 62</p>
+      <p>Organizer: M<sup>a</sup> C. Ruiz Delgado & J. C. Sancho Garcia<br>Participants: 62</p>
       <img src="assets/images/logo_cpic8.png" alt="Small Image" width="200">
     </div>
     <div class="photo-display">
@@ -171,7 +171,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC10</span>
       <span class="smaller-text">Valencia, Spain, 01-02.02.2019</span>
-      <p>Organizer: Begoña Milián-Medina, Johannes Gierschner<br>Participants: 52</p>
+      <p>Organizer: Begoña Milián-Medina & Johannes Gierschner<br>Participants: 52</p>
       <img src="assets/images/logo_cpic10.png" alt="Small Image" width="120">
     </div>
     <div class="photo-display">
@@ -184,7 +184,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC11</span>
       <span class="smaller-text">Zagreb, Croatia, 30.-01.02.2020</span>
-      <p>Organizer: Luca Grisanti, Aurora Ponzi<br>Participants: 53</p>
+      <p>Organizer: Luca Grisanti & Aurora Ponzi<br>Participants: 53</p>
       <img src="assets/images/logo_cpic11.png" alt="Small Image" width="120">
     </div>
     <div class="photo-display">
@@ -197,7 +197,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC Covid-19 edition</span>
       <span class="smaller-text">Online, 18-20.01.2021</span>
-      <p>Organizer: G. d'Avino, L. Grisanti, G. Prampolini, M. Linares<br>Participants: 100</p>
+      <p>Organizer: G. d'Avino, L. Grisanti, G. Prampolini & M. Linares<br>Participants: 100</p>
     </div>
     <div class="photo-display">
       <a href="#" onclick="openImagePopup('assets/images/cpic_virtual.png', event)">
@@ -222,7 +222,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC13</span>
       <span class="smaller-text">Madrid, Spain, 26-28.01.2023</span>
-      <p>Organizer: Javier Cerezo, Lara Martínez<br>Participants: 64</p>
+      <p>Organizer: Javier Cerezo & Lara Martínez<br>Participants: 64</p>
       <img src="assets/images/logo_cpic13.png" alt="Small Image" width="150">
     </div>
     <div class="photo-display">
