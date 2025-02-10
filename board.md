@@ -19,7 +19,9 @@ layout: about
 - [Giacomo Prampolini](http://www.iccom.cnr.it/en/single-profile-iccom-en/?uid=5) (CNR-ICCOM Pisa, IT)
 - [Luca Grisanti](https://www.iom.cnr.it/phonebook/luca-grisanti/) (CNR-IOM, Trieste, IT)
 - [Gabriele d'Avino](https://sites.google.com/view/gdavino) (Institut Néel CNRS, Grenoble, FR)
-- [Javier Cerezo](https://www.researchgate.net/profile/Javier-Cerezo-3) (Universidad Autónoma Madrid, UAM)
-- [Lara Martínez-Fernández](https://portalcientifico.uam.es/en/ipublic/researcher/264577) (Universidad Autónoma Madrid, UAM)
+- [Javier Cerezo](https://www.researchgate.net/profile/Javier-Cerezo-3) (Universidad Autónoma Madrid, ES)
+- [Lara Martínez-Fernández](https://portalcientifico.uam.es/en/ipublic/researcher/264577) (Universidad Autónoma Madrid, ES)
 - [Claire Tonnelé](https://www.ikerbasque.net/en/claire-tonnele) (Donostia International Physics Center, ES)
+- [Samuele Giannini] (http://www.iccom.cnr.it/it/single-profile-iccom/?uid=238) (CNR-ICCOM Pisa, IT)
+- [Daniele Padula] (https://docenti.unisi.it/en/padula) (University of Siena, IT)
 
