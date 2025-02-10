@@ -22,6 +22,6 @@ layout: about
 - [Javier Cerezo](https://www.researchgate.net/profile/Javier-Cerezo-3) (Universidad Autónoma Madrid, ES)
 - [Lara Martínez-Fernández](https://portalcientifico.uam.es/en/ipublic/researcher/264577) (Universidad Autónoma Madrid, ES)
 - [Claire Tonnelé](https://www.ikerbasque.net/en/claire-tonnele) (Donostia International Physics Center, ES)
-- [Samuele Giannini] (http://www.iccom.cnr.it/it/single-profile-iccom/?uid=238) (CNR-ICCOM Pisa, IT)
-- [Daniele Padula] (https://docenti.unisi.it/en/padula) (University of Siena, IT)
+- [Samuele Giannini](https://www.iccom.cnr.it/it/single-profile-iccom/?uid=238) (CNR-ICCOM Pisa, IT)
+- [Daniele Padula](https://docenti.unisi.it/en/padula) (CUniversity of Siena, IT)
 
