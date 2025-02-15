@@ -252,7 +252,7 @@ layout: columns
       <img src="assets/images/logo_cpic15.png" alt="Small Image" width="180">
     </div>
     <div class="photo-display">
-      <a href="#" onclick="openImagePopup('assets/images/cpic15_large.jpg', event)">
+      <a href="#" onclick="openImagePopup('assets/images/cpic15_large.jpg',event)">
         <img class="smallImage" src="assets/images/cpic15_large.jpg" width="500" />
       </a>
     </div>
