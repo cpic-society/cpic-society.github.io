@@ -257,6 +257,19 @@ layout: columns
       </a>
     </div>
   </div>
+  <div class="photo-item">
+    <div class="photo-info">
+      <span class="larger-text">CπC16</span>
+      <span class="smaller-text">Warsaw, Poland, 05-06.02.2026</span>
+      <p>Organizer: Silvio Osella<br>Participants: XX</p>
+      <img src="assets/images/logo_cpic16.png" alt="Small Image" width="180">
+    </div>
+    <div class="photo-display">
+      <a href="#" onclick="openImagePopup('assets/images/cpic16_large.jpg', event)">
+        <img class="smallImage" src="assets/images/cpic16_large.jpg" width="500" />
+      </a>
+    </div>
+  </div>
   <!-- Repeat the above structure for other photo items -->
 </div>
 
@@ -268,8 +281,8 @@ layout: columns
 </head>
 <body>
   <hr style="border: none; background-color: #000; height: 1px; margin: 20px 0;">
-Next edition will take place in Warsaw, Poland.<br>
-<span style="color:#398188">CπC16</span>  <span style="color:#606060">:: Warsaw, Poland, 2025</span>
+Next edition will take place in Bologna, Italy.<br>
+<span style="color:#398188">CπC17</span>  <span style="color:#606060">:: Bologna, Italy, 2026</span>
 </body>
 
 
