@@ -1,6 +1,6 @@
 ---
 title: "Art"
-layout: splash
+layout: columns
 ---
 
 header:
