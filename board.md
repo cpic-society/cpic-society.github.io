@@ -24,5 +24,5 @@ layout: about
 - [Claire Tonnelé](https://www.ikerbasque.net/en/claire-tonnele) (Donostia International Physics Center, ES)
 - [Samuele Giannini](https://www.iccom.cnr.it/it/single-profile-iccom/?uid=238) (CNR-ICCOM Pisa, IT)
 - [Daniele Padula](https://docenti.unisi.it/en/padula) (University of Siena, IT)
-- [Silvio Osella](https://chembio.cent.uw.edu.pl/osella.html) (Center of Technologies, University of Warsaw, PL)
+- [Silvio Osella](https://chembio.cent.uw.edu.pl/osella.html) (Center of New Technologies, University of Warsaw, PL)
 
