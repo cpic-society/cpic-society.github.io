@@ -282,7 +282,7 @@ layout: columns
 <body>
   <hr style="border: none; background-color: #000; height: 1px; margin: 20px 0;">
 Next edition will take place in Bologna, Italy.<br>
-<span style="color:#398188">CπC17</span>  <span style="color:#606060">:: Bologna, Italy, 2026</span>
+<span style="color:#398188">CπC17</span>  <span style="color:#606060">:: Bologna, Italy, 2027</span>
 </body>
 
 
