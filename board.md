@@ -19,7 +19,7 @@ layout: about
 - [Giacomo Prampolini](http://www.iccom.cnr.it/en/single-profile-iccom-en/?uid=5) (CNR-ICCOM Pisa, IT)
 - [Luca Grisanti](https://www.iom.cnr.it/phonebook/luca-grisanti/) (CNR-IOM, Trieste, IT)
 - [Gabriele d'Avino](https://www.unive.it/data/persone/28983512) (University of Venice, IT)
-- [Javier Cerezo](https://portalinvestigacion.um.es/investigadores/456505/detalle) (Universidad de Murcia, ES)
+- [Javier Cerezo](https://portalinvestigacion.um.es/investigadores/456505/detalle) (University of Murcia, ES)
 - [Lara Martínez-Fernández](https://portalcientifico.uam.es/en/ipublic/researcher/264577) (Universidad Autónoma Madrid, ES)
 - [Claire Tonnelé](https://www.ikerbasque.net/en/claire-tonnele) (Donostia International Physics Center, ES)
 - [Samuele Giannini](https://molecolab.dcci.unipi.it/people/giannini.html) (University of Pisa, IT)
