@@ -5,9 +5,7 @@ layout: page
 
 <img src="/assets/images/patrick.png" alt="Description" style="float: right; margin: 0 0 1em 1.5em; width: 250px; height: auto;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
-nostrud exercitation ullamco laboris.
+Within the CπC community, science and art sometimes go hand in hand. Patrick Trouillas is one of our members who conjugates his research activity with his passion for drawing. His work beautifully bridges the two worlds, bringing science to a broader audience with a vivid artistic sensibility. If you are curious about his work and many projects, head to his website at [illustratific.com](https://illustratific.com).
 
 <div style="clear: both;"></div>
 
