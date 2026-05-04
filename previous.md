@@ -261,7 +261,7 @@ layout: columns
     <div class="photo-info">
       <span class="larger-text">CπC16</span>
       <span class="smaller-text">Warsaw, Poland, 05-06.02.2026</span>
-      <p>Organizer: Silvio Osella<br>Participants: XX</p>
+      <p>Organizer: Silvio Osella<br>Participants: 63</p>
       <img src="assets/images/logo_cpic16.png" alt="Small Image" width="180">
     </div>
     <div class="photo-display">
